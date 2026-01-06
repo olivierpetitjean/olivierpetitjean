@@ -39,4 +39,4 @@
 ---
 
 ## 🐾 Bonus
-I’m a cat person 😺
+I’m a cat person 😺🥰
