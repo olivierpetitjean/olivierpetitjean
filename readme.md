@@ -17,6 +17,7 @@
 <div align="center">
   <b>Senior Full-Stack Developer — .NET/C# + TypeScript (Angular/React)</b><br/>
 </div>
+
 ---
 
 ## ⚡ Now
