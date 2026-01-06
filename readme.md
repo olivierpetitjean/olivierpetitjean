@@ -39,4 +39,4 @@
 ---
 
 ## 🐾 Bonus
-I’m a cat person 😺🥰
+Powered by coffee and cats 😺
