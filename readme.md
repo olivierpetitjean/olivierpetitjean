@@ -30,13 +30,13 @@
 
 ## 🧠 My Core Skills
 
-- Backend engineering (.NET / C#): APIs, background workers, performance-minded code, stable public contracts, clean architecture (without overengineering)
-- Frontend engineering (TypeScript): Angular & React production apps, pragmatic UI/UX, maintainable component systems
-- Systems & delivery: Dockerization, self-hosted deployments, CI/CD thinking, reproducible setups
-- Realtime-ish pipelines: audio streaming/duplex, buffering, resampling, event-driven pipelines
-- Product mindset: build what ships, document what matters, keep it reliable
+- **Full-stack product engineering (15+ years)** — I build SaaS apps end-to-end: .NET/C#, TypeScript (Angular/React), SQL Server, and API-first backends.
+- **UI that feels right** — I care about UI/UX, clean CSS, motion/animations, and pixel-perfect details (the stuff users actually notice).
+- **Clean architecture, not ceremony** — DDD / Clean Architecture when it helps, solid patterns, strong boundaries, and tests where they pay off (unit + integration + E2E), with quality gates (static analysis / Sonar-style).
+- **Delivery is part of the job** — CI/CD, TeamCity, automated builds, and optimized artifacts so releases are repeatable and low-friction.
+- **Team workflow** — Scrum habits, comfortable with Atlassian + JetBrains tooling, and I like keeping things clear and pragmatic.
+- **Maker energy (personal)** — Python, KiCad, 3D printing, Arduino, Raspberry Pi — I enjoy prototyping and building real things.
 
----
 
 <div align="center">
   
