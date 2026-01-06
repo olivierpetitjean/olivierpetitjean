@@ -36,10 +36,7 @@
 - **Team workflow** — Scrum habits, comfortable with Atlassian + JetBrains tooling, and I like keeping things clear and pragmatic.
 - **Maker energy (personal)** — Python, KiCad, 3D printing, Arduino, Raspberry Pi — I enjoy prototyping and building real things.
 
+---
 
-<div align="center">
-  
-### 🐾 Bonus
+## 🐾 Bonus
 I’m a cat person 😺
-
-</div>
