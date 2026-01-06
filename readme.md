@@ -20,13 +20,13 @@
 
 ---
 
+
 ## ⚡ Now
 
 - 🛰️ Sentinel for Home Assistant — multi-room voice satellites (wake word, VAD, pre-roll), local STT (Whisper / Vosk), orchestration, LED feedback, duplex audio.
 - 🐳 Self-hosting & infra — Docker, Synology, build pipelines, “one-command install” services.
 - 🧪 Maker work — Raspberry Pi, mic arrays (XVF3800), small amp boards, clean 3D printed enclosures.
 
----
 
 ## 🧠 My Core Skills
 
@@ -37,7 +37,6 @@
 - **Team workflow** — Scrum habits, comfortable with Atlassian + JetBrains tooling, and I like keeping things clear and pragmatic.
 - **Maker energy (personal)** — Python, KiCad, 3D printing, Arduino, Raspberry Pi — I enjoy prototyping and building real things.
 
----
 
 ## 🐾 Bonus
 Powered by coffee and cats 😺
