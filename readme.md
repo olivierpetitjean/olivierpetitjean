@@ -39,15 +39,6 @@
 ---
 
 <div align="center">
-
 ### 🐾 Bonus
 I’m a cat person 😺
-
-</div>
-
----
- 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 </div>
