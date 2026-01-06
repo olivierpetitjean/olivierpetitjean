@@ -16,7 +16,6 @@
 
 <div align="center">
   <b>Senior Full-Stack Developer — .NET/C# + TypeScript (Angular/React)</b><br/>
-  <i>Production-grade APIs, clean architecture, and reliable delivery with Docker/self-hosting.</i>
 </div>
 ---
 
