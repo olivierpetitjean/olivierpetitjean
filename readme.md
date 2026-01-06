@@ -39,6 +39,8 @@
 ---
 
 <div align="center">
+  
 ### 🐾 Bonus
 I’m a cat person 😺
+
 </div>
